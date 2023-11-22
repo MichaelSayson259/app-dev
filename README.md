@@ -1,2 +1,3 @@
-# app-dev
-My First Repository
+# My Favorite Movie
+
+My favorite movie as of now is Top Gun: Maverick. A sequel to the 1986 movie named Top Gun, Top Gun: Maverick is a worthy sequel to the first movie since it has stayed faithful to the core theme of the movie, while at the same time, adds new elements to the story which introduces new characters and expands the story of established characters. Top Gun: Maverick also uses state-of-the-art cinematography to give movie viewers like me a very immersive experience on how hard it is to be a fighter pilot, as well as highlight the thrills and dangers of flying fighter aircraft to the extreme limit. Overall, Top Gun: Maverick is a good example that action movies can still be good and can be blockbuster hits if done properly and with good vision and effort.
